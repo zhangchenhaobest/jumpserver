@@ -1,3 +1,29 @@
+# jumpserver
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+JumpServer is an Open-source Privileged Access Management (PAM) platform with AI-powered capabilities, providing DevOps and IT teams a unified workspace to securely access SSH, RDP, Kubernetes, databases, websites, RemoteApp, VirtualApp, and more.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源特权访问管理（PAM）平台 JumpServer，带 AI 能力，为 DevOps 与 IT 团队提供统一工作区。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
   <a name="readme-top"></a>
   <a href="https://jumpserver.com" target="_blank"><img src="readmes/assets/jumpserver-logo.svg" alt="JumpServer" width="300" /></a>
